@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/join",
+      "destination": "discord.gg/tengoku",
+      "permanent": true
+    },
+    {
       "source": "/appeal",
       "destination": "https://appeal.gg/FkpDrsQSa7",
       "permanent": true
