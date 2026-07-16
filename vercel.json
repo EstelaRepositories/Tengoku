@@ -11,6 +11,11 @@
       "permanent": true
     },
     {
+      "source": "/ticket",
+      "destination": "https://discord.com/channels/1502737584613490911/1524132719356022894",
+      "permanent": true
+    },
+    {
       "source": "/appeal",
       "destination": "https://appeal.gg/FkpDrsQSa7",
       "permanent": true
