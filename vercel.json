@@ -7,7 +7,7 @@
     },
     {
       "source": "/join",
-      "destination": "discord.gg/tengoku",
+      "destination": "https://discord.gg/tengoku",
       "permanent": true
     },
     {
