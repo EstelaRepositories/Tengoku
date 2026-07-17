@@ -41,6 +41,16 @@
       "permanent": true
     },
     {
+      "source": "/guide",
+      "destination": "https://discord.com/channels/1502737584613490911/1527413042479108207",
+      "permanent": true
+    },
+    {
+      "source": "/rules",
+      "destination": "https://discord.com/channels/1502737584613490911/1527417672130629732",
+      "permanent": true
+    },
+    {
       "source": "/appeal",
       "destination": "https://appeal.gg/FkpDrsQSa7",
       "permanent": true
