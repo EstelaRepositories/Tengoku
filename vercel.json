@@ -51,6 +51,31 @@
       "permanent": true
     },
     {
+      "source": "/command",
+      "destination": "https://discord.com/channels/1502737584613490911/1521110920867348552",
+      "permanent": true
+    },
+    {
+      "source": "/flexo",
+      "destination": "https://discord.com/channels/1502737584613490911/1521145225865855168",
+      "permanent": true
+    },
+    {
+      "source": "/hayo",
+      "destination": "https://discord.com/channels/1502737584613490911/1521144266083270739",
+      "permanent": true
+    },
+    {
+      "source": "/bayo",
+      "destination": "https://discord.com/channels/1502737584613490911/1521144295514706011",
+      "permanent": true
+    },
+    {
+      "source": "/partnerships",
+      "destination": "https://discord.com/channels/1502737584613490911/1524255028737740990",
+      "permanent": true
+    },
+    {
       "source": "/appeal",
       "destination": "https://appeal.gg/FkpDrsQSa7",
       "permanent": true
