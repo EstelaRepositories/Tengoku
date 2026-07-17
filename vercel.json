@@ -16,6 +16,31 @@
       "permanent": true
     },
     {
+      "source": "/roles",
+      "destination": "https://discord.com/channels/1502737584613490911/1527452408521818192",
+      "permanent": true
+    },
+    {
+      "source": "/news",
+      "destination": "https://discord.com/channels/1502737584613490911/1524255052947132536",
+      "permanent": true
+    },
+    {
+      "source": "/portrait",
+      "destination": "https://discord.com/channels/1502737584613490911/1521136299988488222",
+      "permanent": true
+    },
+    {
+      "source": "/pets",
+      "destination": "https://discord.com/channels/1502737584613490911/1525324879199735978",
+      "permanent": true
+    },
+    {
+      "source": "/create",
+      "destination": "https://discord.com/channels/1502737584613490911/1525602151085113446",
+      "permanent": true
+    },
+    {
       "source": "/appeal",
       "destination": "https://appeal.gg/FkpDrsQSa7",
       "permanent": true
